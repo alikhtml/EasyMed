@@ -145,6 +145,41 @@ const diseasesData = [
         medications: ["Iron supplements", "Vitamin B12", "Folate"],
         description: "Anemia is a condition in which you lack enough healthy red blood cells to carry adequate oxygen to your body's tissues.",
         link: "https://www.mayoclinic.org/diseases-conditions/anemia/symptoms-causes/syc-20351360"
+    },
+    {
+        name: "Gastric Ulcer",
+        symptoms: ["stomachache", "bloating", "heartburn", "nausea"],
+        medications: ["Antibiotics", "Proton pump inhibitors", "H2 blockers"],
+        description: "A gastric ulcer is a sore that develops on the lining of the stomach.",
+        link: "https://www.mayoclinic.org/diseases-conditions/peptic-ulcer/symptoms-causes/syc-20354223"
+    },
+    {
+        name: "Gastritis",
+        symptoms: ["stomachache", "nausea", "vomiting", "bloating"],
+        medications: ["Antacids", "H2 blockers", "Proton pump inhibitors"],
+        description: "Gastritis is an inflammation, irritation, or erosion of the lining of the stomach.",
+        link: "https://www.mayoclinic.org/diseases-conditions/gastritis/symptoms-causes/syc-20355805"
+    },
+    {
+        name: "Irritable Bowel Syndrome (IBS)",
+        symptoms: ["stomachache", "bloating", "diarrhea", "constipation"],
+        medications: ["Laxatives", "Anti-diarrheal medications", "Antispasmodics"],
+        description: "Irritable bowel syndrome is a common disorder that affects the large intestine.",
+        link: "https://www.mayoclinic.org/diseases-conditions/irritable-bowel-syndrome/symptoms-causes/syc-20360016"
+    },
+    {
+        name: "Peptic Ulcer",
+        symptoms: ["stomachache", "bloating", "heartburn", "nausea"],
+        medications: ["Antibiotics", "Proton pump inhibitors", "H2 blockers"],
+        description: "Peptic ulcers are open sores that develop on the inside lining of your stomach and the upper portion of your small intestine.",
+        link: "https://www.mayoclinic.org/diseases-conditions/peptic-ulcer/symptoms-causes/syc-20354223"
+    },
+    {
+        name: "Meteorism",
+        symptoms: ["bloating", "gas", "abdominal pain", "discomfort"],
+        medications: ["Antacids", "Simethicone", "Activated charcoal"],
+        description: "Meteorism is the excessive accumulation of gas in the digestive tract.",
+        link: "https://www.mayoclinic.org/diseases-conditions/gas-and-gas-pains/symptoms-causes/syc-20372709"
     }
 ];
 
