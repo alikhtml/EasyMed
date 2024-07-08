@@ -160,8 +160,8 @@ function checkSymptoms() {
     const resultDiv = document.getElementById('result');
     resultDiv.innerHTML = '';
 
-    if (symptoms.length < 2 || symptoms.length > 5) {
-        resultDiv.innerHTML = '<p>Please enter between 2 and 5 symptoms.</p>';
+    if (symptoms.length < 1 || symptoms.length > 5) {
+        resultDiv.innerHTML = '<p>Please enter between 1 and 5 symptoms.</p>';
         return;
     }
 
